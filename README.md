@@ -66,9 +66,13 @@ Testing
 Accessed the website using the EC2 public IP / Load Balancer DNS.
 
 Performed insert/retrieve operations from the RDS database through the website.
+
+
 📈 Outcome
 Achieved high availability with Auto Scaling.
 
 Separated compute and database layers.
 
 Successfully migrated a legacy website to a scalable AWS cloud environment.
+
+
